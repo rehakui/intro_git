@@ -1,2 +1,4 @@
 git test
 workflow
+git add
+git commit
